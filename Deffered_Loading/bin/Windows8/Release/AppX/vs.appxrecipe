@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XIAOHU</Machine>
+    <WindowsUser>dingxiaohu</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>473235039A454B2BD0B44FAB4B4E33B7B83583DEE8BC2122BD4422E55DC71AA8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fcfab444-db69-44f1-a7f2-6a7cb06c88b3_1.0.0.0_neutral__5z57ncanr4bh4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fcfab444-db69-44f1-a7f2-6a7cb06c88b3_5z57ncanr4bh4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fcfab444-db69-44f1-a7f2-6a7cb06c88b3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=小虎</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\bin\Windows8\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-14T15:38:49.877</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\bin\Windows8\Release\Deffered_Loading.exe">
+      <PackagePath>Deffered_Loading.exe</PackagePath>
+      <Modified>2013-11-14T15:38:49.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\bin\Windows8\Release\Deffered_Loading.pdb">
+      <PackagePath>Deffered_Loading.pdb</PackagePath>
+      <Modified>2013-11-14T15:38:49.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2013-02-25T16:44:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\bin\Windows8\Debug\AppX\Content\book.xnb">
+      <PackagePath>bin\Windows8\Debug\AppX\Content\book.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T06:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T06:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T06:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-06T06:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Deffered_Loading\bin\Windows8\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-14T15:38:49.746</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

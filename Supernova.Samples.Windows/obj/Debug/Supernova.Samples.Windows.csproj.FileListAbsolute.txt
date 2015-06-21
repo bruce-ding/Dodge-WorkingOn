@@ -1,0 +1,150 @@
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.exe
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.pdb
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\resources.pri
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\AppxManifest.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.build.appxrecipe
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\MonoGame.Framework.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.DXGI.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XAudio2.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XInput.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.dll
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.pdb
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.pri
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XInput.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.DXGI.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XAudio2.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.csprojResolveAssemblyReference.cache
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\App.g.i.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\App.g.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.g.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\GamePage.g.i.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\GamePage.g.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\App.xaml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.xaml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\GamePage.xaml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.exe
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.pdb
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.csproj.GenerateResource.Cache
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\SharpDX.pri
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\SharpDX\LanguageQualifiers.txt
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\priconfig.xml
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\layout.resfiles
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\resources.resfiles
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\pri.resfiles
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\LanguageQualifiers.txt
+D:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\ProjectArchitectures.txt
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.exe
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.pdb
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\resources.pri
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\AppxManifest.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.build.appxrecipe
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.DXGI.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XAudio2.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XInput.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.dll
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.pdb
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.pri
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XInput.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.DXGI.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XAudio2.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.csprojResolveAssemblyReference.cache
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\App.g.i.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\App.g.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.g.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\GamePage.g.i.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\GamePage.g.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\App.xaml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.xaml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\GamePage.xaml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.exe
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.pdb
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.csproj.GenerateResource.Cache
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\SharpDX.pri
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\SharpDX\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\priconfig.xml.intermediate
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\layout.resfiles.intermediate
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\resources.resfiles.intermediate
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\pri.resfiles.intermediate
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\priconfig.xml
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\layout.resfiles
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\resources.resfiles
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\pri.resfiles
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge\Supernova.Samples.Windows\obj\Debug\ProjectArchitectures.txt
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.exe
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.pdb
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\resources.pri
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\AppxManifest.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.build.appxrecipe
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.DXGI.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XAudio2.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XInput.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.pdb
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Windows.pri
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XInput.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.DXGI.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\SharpDX.XAudio2.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.csprojResolveAssemblyReference.cache
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\App.g.i.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\App.g.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.g.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\GamePage.g.i.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\GamePage.g.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\App.xaml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Common\StandardStyles.xaml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\GamePage.xaml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.exe
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.pdb
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\Supernova.Samples.Windows.csproj.GenerateResource.Cache
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\SharpDX.pri
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\SharpDX\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\priconfig.xml.intermediate
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\layout.resfiles.intermediate
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\resources.resfiles.intermediate
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\pri.resfiles.intermediate
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\priconfig.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\layout.resfiles
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\resources.resfiles
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\pri.resfiles
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\obj\Debug\ProjectArchitectures.txt

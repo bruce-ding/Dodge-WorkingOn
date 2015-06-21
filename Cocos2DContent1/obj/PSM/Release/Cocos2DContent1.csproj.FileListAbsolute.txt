@@ -1,0 +1,2 @@
+E:\Windows 8编程\Dodge WorkingOn\Cocos2DContent1\bin\Release\Cocos2DContent1.dll
+E:\Windows 8编程\Dodge WorkingOn\Cocos2DContent1\obj\PSM\Release\Cocos2DContent1.dll

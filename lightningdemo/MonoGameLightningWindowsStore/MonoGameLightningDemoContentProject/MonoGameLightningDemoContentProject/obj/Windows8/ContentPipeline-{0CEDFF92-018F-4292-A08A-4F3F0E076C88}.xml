@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>InfoFont.spritefont</Source>
+      <Name>InfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\InfoFont.xnb</Output>
+      <Time>2013-02-03T19:44:44.7226241+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LightningFont.spritefont</Source>
+      <Name>LightningFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\LightningFont.xnb</Output>
+      <Time>2013-02-03T19:44:44.7276244+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\fonts\Arial.spritefont</Source>
+      <Name>NotParOfThis\fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\fonts\Arial.xnb</Output>
+      <Time>2014-03-30T21:42:57.9518057+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Half Circle.png</Source>
+      <Name>Half Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Half Circle.xnb</Output>
+      <Time>2013-02-03T19:44:44.731625+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Lightning Segment.png</Source>
+      <Name>Lightning Segment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Lightning Segment.xnb</Output>
+      <Time>2013-02-03T19:44:44.7266259+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixel.png</Source>
+      <Name>Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Pixel.xnb</Output>
+      <Time>2013-02-03T19:44:44.7306253+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ExitGame.jpg</Source>
+      <Name>ExitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\ExitGame.xnb</Output>
+      <Time>2013-12-06T23:33:44.9212567+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Leaderboard.png</Source>
+      <Name>Leaderboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Leaderboard.xnb</Output>
+      <Time>2013-12-06T23:33:44.9232581+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame.png</Source>
+      <Name>NewGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NewGame.xnb</Output>
+      <Time>2013-12-06T23:33:44.9242587+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ResumeGame.png</Source>
+      <Name>ResumeGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\ResumeGame.xnb</Output>
+      <Time>2013-12-06T23:33:44.9252594+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\HelloWorld.png</Source>
+      <Name>NotParOfThis\HelloWorld</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\HelloWorld.xnb</Output>
+      <Time>2014-03-30T21:42:58.1000944+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\Images\GameUI01.png</Source>
+      <Name>NotParOfThis\Images\GameUI01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\Images\GameUI01.xnb</Output>
+      <Time>2014-03-30T21:42:57.9878088+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\Images\GameUI02.png</Source>
+      <Name>NotParOfThis\Images\GameUI02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\Images\GameUI02.xnb</Output>
+      <Time>2014-03-30T21:42:58.0138061+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\plist\Images\ActorsPack1.png</Source>
+      <Name>NotParOfThis\plist\Images\ActorsPack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\plist\Images\ActorsPack1.xnb</Output>
+      <Time>2014-03-30T21:42:58.0438144+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\TileMaps\grass_ground.png</Source>
+      <Name>NotParOfThis\TileMaps\grass_ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\TileMaps\grass_ground.xnb</Output>
+      <Time>2014-03-30T21:42:58.0630954+08:00</Time>
+    </Item>
+    <Item>
+      <Source>lighting.wav</Source>
+      <Name>lighting</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\lighting.xnb</Output>
+      <Time>2013-10-20T18:55:05.1654744+08:00</Time>
+    </Item>
+    <Item>
+      <Source>rainDrop.wav</Source>
+      <Name>rainDrop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\rainDrop.xnb</Output>
+      <Time>2013-10-20T19:09:42.0319113+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LogoAudio.wav</Source>
+      <Name>LogoAudio</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\LogoAudio.xnb</Output>
+      <Time>2013-11-24T16:36:49.9064446+08:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\GameUI01.plist</Source>
+      <Name>NotParOfThis\GameUI01</Name>
+      <Importer>CocosPListImporter</Importer>
+      <Processor>CocosPListProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\GameUI01.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\GameUI02.plist</Source>
+      <Name>NotParOfThis\GameUI02</Name>
+      <Importer>CocosPListImporter</Importer>
+      <Processor>CocosPListProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\GameUI02.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\plist\ActorsPack1.plist</Source>
+      <Name>NotParOfThis\plist\ActorsPack1</Name>
+      <Importer>CocosPListImporter</Importer>
+      <Processor>CocosPListProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\plist\ActorsPack1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>NotParOfThis\TileMaps\Level0.tmx</Source>
+      <Name>NotParOfThis\TileMaps\Level0</Name>
+      <Importer>TMXImporter</Importer>
+      <Processor>TMXProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NotParOfThis\TileMaps\Level0.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <BuildSuccessful>false</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0CEDFF92-018F-4292-A08A-4F3F0E076C88}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Windows8</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProjectContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\obj\Windows8\</IntermediateDirectory>
+      <OutputDirectory>E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-06T05:56:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-22T12:51:40.2409306+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

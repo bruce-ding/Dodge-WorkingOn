@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XIAOHU</Machine>
+    <WindowsUser>Bruce</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\x86\Debug\MonoGameLightningWindowsStore.exe">
+      <PackagePath>MonoGameLightningWindowsStore.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\x86\Debug\MonoGameLightningWindowsStore.pdb">
+      <PackagePath>MonoGameLightningWindowsStore.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\x86\Debug\MonoGameLightningDemoLib.pdb">
+      <PackagePath>MonoGameLightningDemoLib.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\x86\Debug\MonoGameLightningDemoLib.dll">
+      <PackagePath>MonoGameLightningDemoLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\ExitGame.xnb">
+      <PackagePath>Content\ExitGame.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Half Circle.xnb">
+      <PackagePath>Content\Half Circle.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\InfoFont.xnb">
+      <PackagePath>Content\InfoFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Leaderboard.xnb">
+      <PackagePath>Content\Leaderboard.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\lighting.xnb">
+      <PackagePath>Content\lighting.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Lightning Segment.xnb">
+      <PackagePath>Content\Lightning Segment.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\LightningFont.xnb">
+      <PackagePath>Content\LightningFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\LogoAudio.xnb">
+      <PackagePath>Content\LogoAudio.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NewGame.xnb">
+      <PackagePath>Content\NewGame.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Pixel.xnb">
+      <PackagePath>Content\Pixel.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\rainDrop.xnb">
+      <PackagePath>Content\rainDrop.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\ResumeGame.xnb">
+      <PackagePath>Content\ResumeGame.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

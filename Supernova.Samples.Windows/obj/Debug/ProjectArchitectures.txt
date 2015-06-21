@@ -1,0 +1,2 @@
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\Supernova.Samples.Windows.csproj;neutral
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\Supernova.Windows.csproj;neutral

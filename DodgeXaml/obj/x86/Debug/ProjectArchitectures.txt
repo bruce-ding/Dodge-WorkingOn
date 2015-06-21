@@ -1,0 +1,7 @@
+E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\DodgeXaml.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\MonoGameLightningDemoLib.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\OpenXLive.WinRT.UI.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\OpenXLive.WinRT.UI.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\OpenXLivePages.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\Particles2DPipelineParticle.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\Supernova.Windows.csproj;x86

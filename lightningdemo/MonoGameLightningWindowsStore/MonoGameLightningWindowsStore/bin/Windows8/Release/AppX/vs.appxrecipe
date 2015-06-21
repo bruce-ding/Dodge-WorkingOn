@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XIAOHU</Machine>
+    <WindowsUser>dingxiaohu</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>46269C0F92C0FE0C59F1791805F92E98179145D2CC88DC34DA8CBDACABC85A8E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7d8cafd3-e45b-4c40-aa58-f2a98c5278d4_1.0.0.0_neutral__h48gq13hqmwp6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7d8cafd3-e45b-4c40-aa58-f2a98c5278d4_h48gq13hqmwp6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7d8cafd3-e45b-4c40-aa58-f2a98c5278d4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Simon-Darkside</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-07T15:28:15.137</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\Release\MonoGameLightningWindowsStore.exe">
+      <PackagePath>MonoGameLightningWindowsStore.exe</PackagePath>
+      <Modified>2013-12-07T15:28:14.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\Release\MonoGameLightningWindowsStore.pdb">
+      <PackagePath>MonoGameLightningWindowsStore.pdb</PackagePath>
+      <Modified>2013-12-07T15:28:14.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.pdb">
+      <PackagePath>MonoGameLightningDemoLib.pdb</PackagePath>
+      <Modified>2013-12-07T14:45:02.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2013-02-25T16:44:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.dll">
+      <PackagePath>MonoGameLightningDemoLib.dll</PackagePath>
+      <Modified>2013-12-07T14:45:02.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\ExitGame.xnb">
+      <PackagePath>Content\ExitGame.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Half Circle.xnb">
+      <PackagePath>Content\Half Circle.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\InfoFont.xnb">
+      <PackagePath>Content\InfoFont.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Leaderboard.xnb">
+      <PackagePath>Content\Leaderboard.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\lighting.xnb">
+      <PackagePath>Content\lighting.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Lightning Segment.xnb">
+      <PackagePath>Content\Lightning Segment.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\LightningFont.xnb">
+      <PackagePath>Content\LightningFont.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\LogoAudio.xnb">
+      <PackagePath>Content\LogoAudio.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\NewGame.xnb">
+      <PackagePath>Content\NewGame.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\Pixel.xnb">
+      <PackagePath>Content\Pixel.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\rainDrop.xnb">
+      <PackagePath>Content\rainDrop.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoContentProject\MonoGameLightningDemoContentProject\bin\Windows8\Content\ResumeGame.xnb">
+      <PackagePath>Content\ResumeGame.xnb</PackagePath>
+      <Modified>2013-12-07T15:14:35.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-23T07:11:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-23T07:11:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-23T07:11:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-23T07:11:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStore\bin\Windows8\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-07T15:28:15.048</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

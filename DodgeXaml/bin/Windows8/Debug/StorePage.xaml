@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="DodgeXaml.StorePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DodgeXaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' x:Name="BtnBack" Style="{StaticResource BackButtonStyle}" Margin="10,0,0,710"                        ></Button>
+        <Image x:ConnectionId='2' x:Name="ImgLighting" Source="Assets/Lighting.jpg"                                               Margin="151,170,1084,493"/>
+        <TextBlock Name="appInfo" HorizontalAlignment="Left" Margin="443,89,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="50" Width="149"/>
+        <TextBlock Name="productInfo" HorizontalAlignment="Left" Margin="443,210,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="65" Width="161"/>
+        <TextBlock Name="tb_Info" HorizontalAlignment="Left" Margin="166,58,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="68" Width="167"/>
+        <Popup x:Name="msgPopup" Canvas.ZIndex="100" IsOpen="True" Visibility="Collapsed" 
+                   Width="240" Height="110"  VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,10,10,0">
+            <Grid Background="DeepSkyBlue" Width="240" Height="110">
+                <TextBlock x:Name="msgtext" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Left"
+                           FontSize="20" Foreground="White" Canvas.ZIndex="1" />
+            </Grid>
+        </Popup>
+        <Button x:ConnectionId='3' Content="测试弹出消息" Name="BtnTest"                         HorizontalAlignment="Left" Margin="546,188,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>
+

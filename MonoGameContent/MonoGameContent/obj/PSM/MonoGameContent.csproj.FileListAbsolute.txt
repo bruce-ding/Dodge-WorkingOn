@@ -1,0 +1,5 @@
+D:\Windows 8编程\Dodge\MonoGameContent\MonoGameContent\bin\PSM\Content\start.xnb
+D:\Windows 8编程\Dodge\MonoGameContent\MonoGameContent\bin\PSM\IgnoreMe.dll
+D:\Windows 8编程\Dodge\MonoGameContent\MonoGameContent\obj\PSM\MonoGameContent.csprojResolveAssemblyReference.cache
+D:\Windows 8编程\Dodge\MonoGameContent\MonoGameContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Windows 8编程\Dodge\MonoGameContent\MonoGameContent\obj\PSM\IgnoreMe.dll

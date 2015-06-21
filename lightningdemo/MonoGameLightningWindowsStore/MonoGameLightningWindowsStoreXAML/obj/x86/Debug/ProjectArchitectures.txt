@@ -1,0 +1,2 @@
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\MonoGameLightningDemoLib.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningWindowsStoreXAML\MonoGameLightningWindowsStoreXAML.csproj;x86

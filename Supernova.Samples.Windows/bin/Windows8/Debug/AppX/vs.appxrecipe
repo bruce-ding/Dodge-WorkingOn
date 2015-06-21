@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XIAOHU-PC</Machine>
+    <WindowsUser>小虎</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>255445921006D0FBF711C304E2923F6F576A73480849CC4522B3DE52E28FB101</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>23f9fa19-10ca-4f93-a97a-9f3ee315b52f_1.0.0.0_neutral__55mw97kmv3wha</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>23f9fa19-10ca-4f93-a97a-9f3ee315b52f_55mw97kmv3wha!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>23f9fa19-10ca-4f93-a97a-9f3ee315b52f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jason</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-15T01:27:29.907</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.exe">
+      <PackagePath>Supernova.Samples.Windows.exe</PackagePath>
+      <Modified>2013-10-20T02:01:40.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Supernova.Samples.Windows.pdb">
+      <PackagePath>Supernova.Samples.Windows.pdb</PackagePath>
+      <Modified>2013-10-20T02:01:40.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.pdb">
+      <PackagePath>Supernova.Windows.pdb</PackagePath>
+      <Modified>2013-10-16T14:34:14.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2013-02-25T16:44:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2012-12-28T16:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.dll">
+      <PackagePath>Supernova.Windows.dll</PackagePath>
+      <Modified>2013-10-16T14:34:14.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+      <Modified>2013-04-30T07:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\bin\Windows8\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-17T13:51:20.178</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

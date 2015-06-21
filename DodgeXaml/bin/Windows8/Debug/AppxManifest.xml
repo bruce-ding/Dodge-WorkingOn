@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    此包清单文件由生成过程生成。
+
+    如果重新生成此文件，将丢失对其所做的更改。若要更正此文件中的错误，请编辑源 .appxmanifest 文件。
+
+    有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="ae682137-c2ac-4aa6-9bff-318fbbd4e5e5" Publisher="CN=Bruce" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>DodgeXaml</DisplayName>
+    <PublisherDisplayName>Administrator</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="ZH-CN" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="DodgeXaml.exe" EntryPoint="DodgeXaml.App">
+      <VisualElements DisplayName="DodgeXaml" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.jpg" Description="DodgeXaml" ForegroundText="dark" BackgroundColor="#FFFFFF" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="white" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>CLRHost.dll</Path>
+        <ActivatableClass ActivatableClassId="OpenXLive.WinRT.UI.ClosedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.WinRT.UI.XLiveCredentialResults" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.WinRT.UI.OpenXLive_WinRT_UI_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.WinRT.UI.XLiveCredentialPicker" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdSettingsFlyout" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.XamlAdControl_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.JSONWrapper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.RendererOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.Advertisement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdErrorEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdPlacement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.UserInfoProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.SdkInfoProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.GameAchievement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.GameSearch" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.AsyncProcessResult" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.Score" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.GameCategory" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.AnnouncementItem" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.MyPlayer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.Announcement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.XImage" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.GameProfile" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.XLiveGameManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.LeaderboardProfile" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.XLiveVersion" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.Leaderboard" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.OnlinePlayer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.PlayerProfile" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.Achievement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="OpenXLive.MyGame" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Extensions.ReflectionExtensions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Extensions.StringExtensions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Extensions.MiscExtensions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.HttpResponse" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.HttpCookie" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.RestRequest" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Deserializers.JsonDeserializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Deserializers.XmlAttributeDeserializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Deserializers.DotNetXmlDeserializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Deserializers.XmlDeserializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Serializers.DotNetXmlSerializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Serializers.XmlSerializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Serializers.JsonSerializer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.RestClient" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.RestResponseCookie" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Parameter" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.HttpBasicAuthenticator" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.HttpParameter" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.HttpFile" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.SimpleAuthenticator" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.FileParameter" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.NtlmAuthenticator" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.RestClientExtensions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Authenticators.OAuth1Authenticator" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Authenticators.OAuth.OAuthWebQueryInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.DateFormat" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Validation.Require" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Validation.Validate" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.HttpHeader" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.Http" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RestSharp.RestResponse" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.OAuthErrRes" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdTimelines" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.ClientOAuth" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdPostMsgWithPic" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.SdkData" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.SdkNetEngine" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.SdkAuth2Res" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.ErrorRes" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdPostMessage" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdFriendShip" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdUserTimeline" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.SdkAuthError" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.SdkResponse" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdShortenUrl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="WeiboSDKForWinRT.CmdAtUsers" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v4.5" />
+    <build:Item Name="VisualStudio" Version="11.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2012" />
+    <build:Item Name="OperatingSystem" Version="10.0.9926.0 (fbl_awesome1501.150119-1648)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.60610.1" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="11.0.60315.1" />
+    <build:Item Name="MSAdvertisingXaml" Version="6.1" />
+    <build:Item Name="MakePri.exe" Version="6.2.9200.20789 (win8_ldr.130802-1617)" />
+  </build:Metadata>
+</Package>

@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="DodgeXaml.PowerUpManagerPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DodgeXaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Orientation="Vertical" Margin="81,104,1171,520" >
+            <Ellipse HorizontalAlignment="Center" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="Assets/Lighting.jpg"/>
+                </Ellipse.Fill>
+            </Ellipse>
+            <TextBlock Text="Score:100" HorizontalAlignment="Right"></TextBlock>
+            <TextBlock Text="升级闪电至下一级" TextAlignment="Center" Margin="10"></TextBlock>
+        </StackPanel>
+        <Button x:Name="btnStartPlay" Click="btnStartPlay_Click" Content="Play" HorizontalAlignment="Left" Margin="1144,655,0,0" VerticalAlignment="Top" Width="130" Height="41" Background="#FF17EC0D"/>
+    </Grid>
+</Page>

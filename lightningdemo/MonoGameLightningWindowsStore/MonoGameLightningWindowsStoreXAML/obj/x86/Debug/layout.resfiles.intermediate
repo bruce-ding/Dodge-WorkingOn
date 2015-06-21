@@ -1,0 +1,19 @@
+Content\ExitGame.xnb
+Content\Half Circle.xnb
+Content\InfoFont.xnb
+Content\Leaderboard.xnb
+Content\lighting.xnb
+Content\Lightning Segment.xnb
+Content\LightningFont.xnb
+Content\LogoAudio.xnb
+Content\NewGame.xnb
+Content\Pixel.xnb
+Content\rainDrop.xnb
+Content\ResumeGame.xnb
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Common\StandardStyles.xaml
+GamePage.xaml

@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XIAOHU</Machine>
+    <WindowsUser>Bruce</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6DCD868006874E8CEE904D1AEE0573C0E7D9F2F07C5567059CFA6F349D35EEBD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ae682137-c2ac-4aa6-9bff-318fbbd4e5e5_1.0.0.0_neutral__y8ve4exr9cgxp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ae682137-c2ac-4aa6-9bff-318fbbd4e5e5_y8ve4exr9cgxp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ae682137-c2ac-4aa6-9bff-318fbbd4e5e5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bruce</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-17T10:54:36.620</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\DodgeXaml.exe">
+      <PackagePath>DodgeXaml.exe</PackagePath>
+      <Modified>2015-03-17T10:54:19.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\DodgeXaml.pdb">
+      <PackagePath>DodgeXaml.pdb</PackagePath>
+      <Modified>2015-03-17T10:54:19.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Debug\MonoGameLightningDemoLib.pdb">
+      <PackagePath>MonoGameLightningDemoLib.pdb</PackagePath>
+      <Modified>2015-03-17T10:54:04.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\bin\Debug\OpenXLive.WinRT.UI.pdb">
+      <PackagePath>OpenXLive.WinRT.UI.pdb</PackagePath>
+      <Modified>2015-03-17T10:54:09.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\OpenXLivePages.pdb">
+      <PackagePath>OpenXLivePages.pdb</PackagePath>
+      <Modified>2015-03-17T10:54:12.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\bin\Windows8\Debug\Particles2DPipelineParticle.pdb">
+      <PackagePath>Particles2DPipelineParticle.pdb</PackagePath>
+      <Modified>2015-03-17T10:54:06.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.pdb">
+      <PackagePath>Supernova.Windows.pdb</PackagePath>
+      <Modified>2015-03-17T10:54:03.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-06-29T04:51:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-06-29T04:51:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Lib\OpenXLive.winmd">
+      <PackagePath>OpenXLive.winmd</PackagePath>
+      <Modified>2012-10-20T08:53:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\bin\Debug\OpenXLive.WinRT.UI.winmd">
+      <PackagePath>OpenXLive.WinRT.UI.winmd</PackagePath>
+      <Modified>2015-03-17T10:54:09.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Libs\RestSharp.winmd">
+      <PackagePath>RestSharp.winmd</PackagePath>
+      <Modified>2014-03-18T06:49:43.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Libs\WeiboSDKForWinRT.winmd">
+      <PackagePath>WeiboSDKForWinRT.winmd</PackagePath>
+      <Modified>2014-03-18T06:49:43.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2015-03-16T03:02:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Debug\MonoGameLightningDemoLib.dll">
+      <PackagePath>MonoGameLightningDemoLib.dll</PackagePath>
+      <Modified>2015-03-17T10:54:04.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\OpenXLivePages.dll">
+      <PackagePath>OpenXLivePages.dll</PackagePath>
+      <Modified>2015-03-17T10:54:12.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\bin\Windows8\Debug\Particles2DPipelineParticle.dll">
+      <PackagePath>Particles2DPipelineParticle.dll</PackagePath>
+      <Modified>2015-03-17T10:54:07.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.dll">
+      <PackagePath>Supernova.Windows.dll</PackagePath>
+      <Modified>2015-03-17T10:54:03.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xaml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xaml</PackagePath>
+      <Modified>2013-06-29T04:48:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-06-29T04:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-06-29T04:48:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-06-29T04:49:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\rain.jpg">
+      <PackagePath>Assets\rain.jpg</PackagePath>
+      <Modified>2014-03-16T09:27:03.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\rain30x30.jpg">
+      <PackagePath>Assets\rain30x30.jpg</PackagePath>
+      <Modified>2014-03-16T09:43:20.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\rain30x30.scale-100.jpg">
+      <PackagePath>Assets\rain30x30.scale-100.jpg</PackagePath>
+      <Modified>2014-05-05T08:24:44.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\SmallLogo.scale-100.jpg">
+      <PackagePath>Assets\SmallLogo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-05T08:24:44.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\Background.jpg">
+      <PackagePath>Assets\Background.jpg</PackagePath>
+      <Modified>2013-10-13T03:54:06.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\Lighting.jpg">
+      <PackagePath>Assets\Lighting.jpg</PackagePath>
+      <Modified>2014-03-16T11:43:57.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\Images\OpenXLiveLogo.jpg">
+      <PackagePath>OpenXLive.WinRT.UI\Images\OpenXLiveLogo.jpg</PackagePath>
+      <Modified>2012-10-13T07:12:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\GameBackground.png">
+      <PackagePath>Assets\GameBackground.png</PackagePath>
+      <Modified>2014-05-05T08:15:27.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\anonymous.png">
+      <PackagePath>Assets\anonymous.png</PackagePath>
+      <Modified>2013-04-14T11:55:26.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\audioOn.png">
+      <PackagePath>Assets\audioOn.png</PackagePath>
+      <Modified>2013-04-15T09:54:43.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\audioOff.png">
+      <PackagePath>Assets\audioOff.png</PackagePath>
+      <Modified>2013-04-15T09:54:43.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\Store.png">
+      <PackagePath>Assets\Store.png</PackagePath>
+      <Modified>2013-10-13T07:41:41.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\internet.png">
+      <PackagePath>Assets\internet.png</PackagePath>
+      <Modified>2013-04-15T09:41:48.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-05T08:08:35.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2014-05-05T08:12:27.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-14T11:12:12.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\start.png">
+      <PackagePath>Assets\start.png</PackagePath>
+      <Modified>2013-05-10T11:34:57.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-05T08:10:18.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\AchvNum.png">
+      <PackagePath>OpenXLivePages\Assets\AchvNum.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\announcement.png">
+      <PackagePath>OpenXLivePages\Assets\announcement.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\CoinNum.png">
+      <PackagePath>OpenXLivePages\Assets\CoinNum.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\Followed.png">
+      <PackagePath>OpenXLivePages\Assets\Followed.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\Friends.png">
+      <PackagePath>OpenXLivePages\Assets\Friends.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\game.png">
+      <PackagePath>OpenXLivePages\Assets\game.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\GameNum.png">
+      <PackagePath>OpenXLivePages\Assets\GameNum.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\lock.png">
+      <PackagePath>OpenXLivePages\Assets\lock.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\Assets\social.png">
+      <PackagePath>OpenXLivePages\Assets\social.png</PackagePath>
+      <Modified>2012-10-20T07:52:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\Assets\Logo.png">
+      <PackagePath>Particles2DPipelineParticle\Assets\Logo.png</PackagePath>
+      <Modified>2014-04-05T07:50:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\Assets\SmallLogo.png">
+      <PackagePath>Particles2DPipelineParticle\Assets\SmallLogo.png</PackagePath>
+      <Modified>2014-04-05T07:50:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\Assets\SplashScreen.png">
+      <PackagePath>Particles2DPipelineParticle\Assets\SplashScreen.png</PackagePath>
+      <Modified>2014-04-05T07:50:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\Particles2DPipelineParticle\Assets\StoreLogo.png">
+      <PackagePath>Particles2DPipelineParticle\Assets\StoreLogo.png</PackagePath>
+      <Modified>2014-04-05T07:50:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\boltcollision.xnb">
+      <PackagePath>Content\Audio\boltcollision.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\explosivecollision.xnb">
+      <PackagePath>Content\Audio\explosivecollision.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\fourbladescollision.xnb">
+      <PackagePath>Content\Audio\fourbladescollision.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\lighting.xnb">
+      <PackagePath>Content\Audio\lighting.xnb</PackagePath>
+      <Modified>2013-10-20T11:12:49.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\pluscollision.xnb">
+      <PackagePath>Content\Audio\pluscollision.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\rainDrop.xnb">
+      <PackagePath>Content\Audio\rainDrop.xnb</PackagePath>
+      <Modified>2013-10-20T11:12:49.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\skullcollision.xnb">
+      <PackagePath>Content\Audio\skullcollision.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\start.xnb">
+      <PackagePath>Content\Audio\start.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\threebladescollision.xnb">
+      <PackagePath>Content\Audio\threebladescollision.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\track.xnb">
+      <PackagePath>Content\Audio\track.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Fonts\Info.xnb">
+      <PackagePath>Content\Fonts\Info.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Fonts\Score.xnb">
+      <PackagePath>Content\Fonts\Score.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\background.xnb">
+      <PackagePath>Content\Images\background.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\bolt.xnb">
+      <PackagePath>Content\Images\bolt.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\fourblades.xnb">
+      <PackagePath>Content\Images\fourblades.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\plus.xnb">
+      <PackagePath>Content\Images\plus.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\skullball.xnb">
+      <PackagePath>Content\Images\skullball.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\spooky_forest.xnb">
+      <PackagePath>Content\Images\spooky_forest.xnb</PackagePath>
+      <Modified>2013-10-17T12:36:12.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\threeblades.xnb">
+      <PackagePath>Content\Images\threeblades.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\threerings.xnb">
+      <PackagePath>Content\Images\threerings.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\fire.xnb">
+      <PackagePath>Content\Sprites\fire.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\flower_green.xnb">
+      <PackagePath>Content\Sprites\flower_green.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\flower_orange.xnb">
+      <PackagePath>Content\Sprites\flower_orange.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\flower_purple.xnb">
+      <PackagePath>Content\Sprites\flower_purple.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\flower_yellow.xnb">
+      <PackagePath>Content\Sprites\flower_yellow.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\pointer.xnb">
+      <PackagePath>Content\Sprites\pointer.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\raindrop.xnb">
+      <PackagePath>Content\Sprites\raindrop.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\smoke.xnb">
+      <PackagePath>Content\Sprites\smoke.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\spooky_forest.xnb">
+      <PackagePath>Content\Sprites\spooky_forest.xnb</PackagePath>
+      <Modified>2013-10-16T14:39:16.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Arial.xnb">
+      <PackagePath>Content\Arial.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:27.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Audio\LogoAudio.xnb">
+      <PackagePath>Content\Audio\LogoAudio.xnb</PackagePath>
+      <Modified>2013-11-24T08:37:33.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\flare.xnb">
+      <PackagePath>Content\flare.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Half Circle.xnb">
+      <PackagePath>Content\Half Circle.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:31.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\explosion.xnb">
+      <PackagePath>Content\Images\explosion.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\InfoFont.xnb">
+      <PackagePath>Content\InfoFont.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Lightning Segment.xnb">
+      <PackagePath>Content\Lightning Segment.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\LightningFont.xnb">
+      <PackagePath>Content\LightningFont.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\logo.xnb">
+      <PackagePath>Content\logo.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\ColorTrail.xnb">
+      <PackagePath>Content\ParticleEffects\ColorTrail.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\GravityPoint.xnb">
+      <PackagePath>Content\ParticleEffects\GravityPoint.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\MultiGravityPoint.xnb">
+      <PackagePath>Content\ParticleEffects\MultiGravityPoint.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\RectContainer.xnb">
+      <PackagePath>Content\ParticleEffects\RectContainer.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\RingOfFire.xnb">
+      <PackagePath>Content\ParticleEffects\RingOfFire.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\ScreenBurn.xnb">
+      <PackagePath>Content\ParticleEffects\ScreenBurn.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\ParticleEffects\SmokeTrail.xnb">
+      <PackagePath>Content\ParticleEffects\SmokeTrail.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Pixel.xnb">
+      <PackagePath>Content\Pixel.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Textures\bigDot.xnb">
+      <PackagePath>Content\Textures\bigDot.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Textures\fire.xnb">
+      <PackagePath>Content\Textures\fire.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Textures\glowParticle.xnb">
+      <PackagePath>Content\Textures\glowParticle.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Textures\particle.xnb">
+      <PackagePath>Content\Textures\particle.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Textures\smile.xnb">
+      <PackagePath>Content\Textures\smile.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Textures\smoke.xnb">
+      <PackagePath>Content\Textures\smoke.xnb</PackagePath>
+      <Modified>2013-10-20T11:32:32.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\StudioLogo.xnb">
+      <PackagePath>Content\StudioLogo.xnb</PackagePath>
+      <Modified>2013-11-14T15:49:11.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\Bullet.xnb">
+      <PackagePath>Content\Images\Bullet.xnb</PackagePath>
+      <Modified>2013-11-16T03:11:25.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-01.xnb">
+      <PackagePath>Content\Sound\explosion-01.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-02.xnb">
+      <PackagePath>Content\Sound\explosion-02.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-03.xnb">
+      <PackagePath>Content\Sound\explosion-03.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-04.xnb">
+      <PackagePath>Content\Sound\explosion-04.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-05.xnb">
+      <PackagePath>Content\Sound\explosion-05.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-06.xnb">
+      <PackagePath>Content\Sound\explosion-06.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-07.xnb">
+      <PackagePath>Content\Sound\explosion-07.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\explosion-08.xnb">
+      <PackagePath>Content\Sound\explosion-08.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\Music.xnb">
+      <PackagePath>Content\Sound\Music.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\shoot-01.xnb">
+      <PackagePath>Content\Sound\shoot-01.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\shoot-02.xnb">
+      <PackagePath>Content\Sound\shoot-02.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\shoot-03.xnb">
+      <PackagePath>Content\Sound\shoot-03.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\shoot-04.xnb">
+      <PackagePath>Content\Sound\shoot-04.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-01.xnb">
+      <PackagePath>Content\Sound\spawn-01.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-02.xnb">
+      <PackagePath>Content\Sound\spawn-02.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-03.xnb">
+      <PackagePath>Content\Sound\spawn-03.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-04.xnb">
+      <PackagePath>Content\Sound\spawn-04.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-05.xnb">
+      <PackagePath>Content\Sound\spawn-05.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-06.xnb">
+      <PackagePath>Content\Sound\spawn-06.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-07.xnb">
+      <PackagePath>Content\Sound\spawn-07.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sound\spawn-08.xnb">
+      <PackagePath>Content\Sound\spawn-08.xnb</PackagePath>
+      <Modified>2013-11-16T05:08:05.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\Seeker.xnb">
+      <PackagePath>Content\Images\Seeker.xnb</PackagePath>
+      <Modified>2013-10-01T07:54:16.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\Wanderer.xnb">
+      <PackagePath>Content\Images\Wanderer.xnb</PackagePath>
+      <Modified>2013-10-01T07:54:16.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Logo\Font.xnb">
+      <PackagePath>Content\Logo\Font.xnb</PackagePath>
+      <Modified>2013-12-01T06:37:03.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Logo\Text Particle.xnb">
+      <PackagePath>Content\Logo\Text Particle.xnb</PackagePath>
+      <Modified>2013-11-24T05:46:47.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\ExitGame.xnb">
+      <PackagePath>Content\Images\ExitGame.xnb</PackagePath>
+      <Modified>2013-12-06T15:35:38.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\Leaderboard.xnb">
+      <PackagePath>Content\Images\Leaderboard.xnb</PackagePath>
+      <Modified>2013-12-06T15:35:38.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\NewGame.xnb">
+      <PackagePath>Content\Images\NewGame.xnb</PackagePath>
+      <Modified>2013-12-06T15:35:38.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Images\ResumeGame.xnb">
+      <PackagePath>Content\Images\ResumeGame.xnb</PackagePath>
+      <Modified>2013-12-06T15:35:38.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\debugFont.xnb">
+      <PackagePath>Content\debugFont.xnb</PackagePath>
+      <Modified>2013-12-08T08:45:02.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\GFX\ABXY_buttons.xnb">
+      <PackagePath>Content\GFX\ABXY_buttons.xnb</PackagePath>
+      <Modified>2013-12-08T08:45:02.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\GFX\Dpad_All.xnb">
+      <PackagePath>Content\GFX\Dpad_All.xnb</PackagePath>
+      <Modified>2013-12-08T08:45:02.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\GFX\ThumbBase.xnb">
+      <PackagePath>Content\GFX\ThumbBase.xnb</PackagePath>
+      <Modified>2013-12-08T08:45:02.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\GFX\ThumbStick.xnb">
+      <PackagePath>Content\GFX\ThumbStick.xnb</PackagePath>
+      <Modified>2013-12-08T08:45:02.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Particles2DPipelineParticle\BlockParticle.xnb">
+      <PackagePath>Content\Particles2DPipelineParticle\BlockParticle.xnb</PackagePath>
+      <Modified>2014-05-02T15:40:19.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Particles2DPipelineParticle\explosion.xnb">
+      <PackagePath>Content\Particles2DPipelineParticle\explosion.xnb</PackagePath>
+      <Modified>2014-05-02T15:40:19.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Particles2DPipelineParticle\smoke.xnb">
+      <PackagePath>Content\Particles2DPipelineParticle\smoke.xnb</PackagePath>
+      <Modified>2014-05-02T15:40:20.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Particles2DPipelineParticle\BlockEmitter.xnb">
+      <PackagePath>Content\Particles2DPipelineParticle\BlockEmitter.xnb</PackagePath>
+      <Modified>2014-05-03T03:56:52.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\snow1.xnb">
+      <PackagePath>Content\Sprites\snow1.xnb</PackagePath>
+      <Modified>2014-03-20T10:34:26.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Sprites\snow2.xnb">
+      <PackagePath>Content\Sprites\snow2.xnb</PackagePath>
+      <Modified>2014-03-20T10:34:26.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\SnowEffect\Snow.xnb">
+      <PackagePath>Content\SnowEffect\Snow.xnb</PackagePath>
+      <Modified>2014-05-02T07:18:09.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\SnowEffect\snow1.xnb">
+      <PackagePath>Content\SnowEffect\snow1.xnb</PackagePath>
+      <Modified>2014-05-02T07:18:09.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\SnowEffect\snow2.xnb">
+      <PackagePath>Content\SnowEffect\snow2.xnb</PackagePath>
+      <Modified>2014-05-02T07:18:09.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\SnowEffect\snow3.xnb">
+      <PackagePath>Content\SnowEffect\snow3.xnb</PackagePath>
+      <Modified>2014-05-02T07:18:09.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Shaders\BloomCombine.xnb">
+      <PackagePath>Content\Shaders\BloomCombine.xnb</PackagePath>
+      <Modified>2014-05-03T08:30:25.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Shaders\BloomExtract.xnb">
+      <PackagePath>Content\Shaders\BloomExtract.xnb</PackagePath>
+      <Modified>2014-05-03T08:30:25.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Content\Shaders\GaussianBlur.xnb">
+      <PackagePath>Content\Shaders\GaussianBlur.xnb</PackagePath>
+      <Modified>2014-05-03T08:30:25.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\ScreenControlsSample.sln">
+      <PackagePath>ScreenControlsSample.sln</PackagePath>
+      <Modified>2013-12-08T08:11:00.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\Assets\dodge.gif">
+      <PackagePath>Assets\dodge.gif</PackagePath>
+      <Modified>2013-04-14T15:02:02.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-03-19T12:03:27.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+      <Modified>2014-03-16T08:01:58.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\PowerUpManagerPage.xaml">
+      <PackagePath>PowerUpManagerPage.xaml</PackagePath>
+      <Modified>2013-11-16T01:41:18.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\StartPage.xaml">
+      <PackagePath>StartPage.xaml</PackagePath>
+      <Modified>2014-05-05T08:23:58.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\StorePage.xaml">
+      <PackagePath>StorePage.xaml</PackagePath>
+      <Modified>2013-10-14T09:20:01.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-01-06T06:37:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\Common\SweetStyles.xaml">
+      <PackagePath>Common\SweetStyles.xaml</PackagePath>
+      <Modified>2014-04-25T07:41:42.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>OpenXLive.WinRT.UI\Themes\Generic.xaml</PackagePath>
+      <Modified>2012-10-20T09:31:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLive.WinRT.UI\bin\Debug\Themes\ResourceDictionary.xaml">
+      <PackagePath>OpenXLive.WinRT.UI\Themes\ResourceDictionary.xaml</PackagePath>
+      <Modified>2012-10-13T07:13:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Common\OpenXLiveStandardStyles.xaml">
+      <PackagePath>OpenXLivePages\Common\OpenXLiveStandardStyles.xaml</PackagePath>
+      <Modified>2012-10-22T11:19:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Pages\AchievementDetailPage.xaml">
+      <PackagePath>OpenXLivePages\Pages\AchievementDetailPage.xaml</PackagePath>
+      <Modified>2012-10-23T03:05:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Pages\AchievementsPage.xaml">
+      <PackagePath>OpenXLivePages\Pages\AchievementsPage.xaml</PackagePath>
+      <Modified>2012-10-23T02:11:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Pages\GamesListPage.xaml">
+      <PackagePath>OpenXLivePages\Pages\GamesListPage.xaml</PackagePath>
+      <Modified>2012-10-23T02:11:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Pages\HomePage.xaml">
+      <PackagePath>OpenXLivePages\Pages\HomePage.xaml</PackagePath>
+      <Modified>2012-10-23T02:42:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Pages\LeaderboardPage.xaml">
+      <PackagePath>OpenXLivePages\Pages\LeaderboardPage.xaml</PackagePath>
+      <Modified>2012-10-23T02:11:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\OpenXLivePages\bin\Debug\Pages\OnlinePlayerPage.xaml">
+      <PackagePath>OpenXLivePages\Pages\OnlinePlayerPage.xaml</PackagePath>
+      <Modified>2012-10-23T03:05:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Windows 8编程\Dodge WorkingOn\DodgeXaml\bin\Windows8\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-17T10:54:29.064</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

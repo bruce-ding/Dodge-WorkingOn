@@ -1,0 +1,16 @@
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Content\Half Circle.xnb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Content\InfoFont.xnb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Content\Lightning Segment.xnb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Content\LightningFont.xnb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Content\Pixel.xnb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\MonoGameLightningDemo1.exe
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\MonoGameLightningDemo1.pdb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Lidgren.Network.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\MonoGameLightningDemoLib.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\OpenTK.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\Tao.Sdl.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\bin\WindowsGL\Release\MonoGameLightningDemoLib.pdb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\obj\x86\Release\MonoGameLightningDemo1.csprojResolveAssemblyReference.cache
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\obj\x86\Release\MonoGameLightningDemo1.exe
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemo1\obj\x86\Release\MonoGameLightningDemo1.pdb

@@ -1,0 +1,238 @@
+﻿<Page x:Class="DodgeXaml.ParticleSettings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:DodgeXaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid x:Name="ParticlesView" Margin="191,0,0,0" />
+        <Grid x:Name="ControlPanel" Margin="0">
+            <Grid Width="167"
+                  Margin="8,8,0,8"
+                  HorizontalAlignment="Left"
+                  Background="LightGreen">
+                <StackPanel Height="240"
+                            Margin="8,8,8,0"
+                            VerticalAlignment="Top"
+                            d:LayoutOverrides="VerticalAlignment">
+                    <Grid Height="38" Margin="1,0,8,0">
+                        <TextBlock x:Name="UI_OPACITY_Value"
+                                   Width="34"
+                                   Margin="0,18,0,0"
+                                   HorizontalAlignment="Right"
+                                   FontSize="12"
+                                   Text="1"
+                                   TextAlignment="Right"
+                                   TextWrapping="Wrap" />
+                        <Slider x:Name="UI_OPACITY"
+                                Margin="9,18,38,2"
+                                Maximum="1"
+                                Minimum="0.1"
+                                Value="-7"
+                                d:LayoutOverrides="Height" />
+                        <TextBlock Width="65"
+                                   Margin="0,0,0,18"
+                                   HorizontalAlignment="Left"
+                                   FontSize="12"
+                                   Text="起始透明度"
+                                   TextWrapping="Wrap" />
+                    </Grid>
+                    <Grid Height="38" Margin="1,0,8,0">
+                        <TextBlock x:Name="UI_OpacityInc_Value"
+                                   Width="34"
+                                   Margin="0,18,0,0"
+                                   HorizontalAlignment="Right"
+                                   FontSize="12"
+                                   Text="1"
+                                   TextAlignment="Right"
+                                   TextWrapping="Wrap" />
+                        <Slider x:Name="UI_OpacityInc"
+                                Margin="9,18,38,2"
+                                Maximum="0.1"
+                                Minimum="-1"
+                                Value="0.1"
+                                d:LayoutOverrides="Height" />
+                        <TextBlock Width="65"
+                                   Margin="0,0,0,18"
+                                   HorizontalAlignment="Left"
+                                   FontSize="12"
+                                   Text="衰减速度"
+                                   TextWrapping="Wrap" />
+                    </Grid>
+                    <Grid Height="38" Margin="1,0,8,0">
+                        <TextBlock x:Name="UI_GRAVITY_Value"
+                                   Width="34"
+                                   Margin="0,18,0,0"
+                                   HorizontalAlignment="Right"
+                                   FontSize="12"
+                                   Text="1"
+                                   TextAlignment="Right"
+                                   TextWrapping="Wrap" />
+                        <Slider x:Name="UI_GRAVITY"
+                                Margin="9,18,38,2"
+                                LargeChange="0"
+                                Maximum="1.5"
+                                Minimum="-1.5"
+                                d:LayoutOverrides="Height" />
+                        <TextBlock Width="65"
+                                   Margin="0,0,0,18"
+                                   HorizontalAlignment="Left"
+                                   FontSize="12"
+                                   Text="重力"
+                                   TextWrapping="Wrap" />
+                    </Grid>
+                    <Grid Height="38" Margin="1,0,8,0">
+                        <TextBlock x:Name="UI_Dots_NUM_Value"
+                                   Width="34"
+                                   Margin="0,18,0,0"
+                                   HorizontalAlignment="Right"
+                                   FontSize="12"
+                                   Text="1"
+                                   TextAlignment="Right"
+                                   TextWrapping="Wrap" />
+                        <Slider x:Name="UI_Dots_NUM"
+                                
+                                Margin="9,18,38,2"
+                                Background="Red"
+                                Maximum="10"
+                                Minimum="1"
+                                SmallChange="1"
+                                d:LayoutOverrides="Height" />
+                        <TextBlock Margin="0,0,38,18"
+                                   FontSize="12"
+                                   Text="每次生产数量"
+                                   TextWrapping="Wrap" />
+                    </Grid>
+                    <Grid Height="38" Margin="1,0,8,0">
+                        <TextBlock x:Name="UI_SIZE_MAX_Value"
+                                   Width="34"
+                                   Margin="0,18,0,0"
+                                   HorizontalAlignment="Right"
+                                   FontSize="12"
+                                   Text="1"
+                                   TextAlignment="Right"
+                                   TextWrapping="Wrap" />
+                        <Slider x:Name="UI_SIZE_MAX"
+                                Margin="9,18,38,2"
+                                Maximum="99"
+                                Minimum="1"
+                                SmallChange="1"
+                                d:LayoutOverrides="Height" />
+                        <TextBlock Margin="0,0,38,18"
+                                   FontSize="12"
+                                   Text="最大"
+                                   TextWrapping="Wrap" />
+                    </Grid>
+                    <Grid Height="38" Margin="1,0,8,0">
+                        <TextBlock x:Name="UI_SIZE_MIN_Value"
+                                   Width="34"
+                                   Margin="0,18,0,0"
+                                   HorizontalAlignment="Right"
+                                   FontSize="12"
+                                   Text="1"
+                                   TextAlignment="Right"
+                                   TextWrapping="Wrap" />
+                        <Slider x:Name="UI_SIZE_MIN"
+                                Margin="9,18,38,2"
+                                Foreground="Red"
+                                Maximum="99"
+                                Minimum="1"
+                                SmallChange="1"
+                                d:LayoutOverrides="Height" />
+                        <TextBlock Margin="0,0,38,18"
+                                   FontSize="12"
+                                   Text="最小"
+                                   TextWrapping="Wrap" />
+                    </Grid>
+                </StackPanel>
+                <StackPanel Width="140"
+                            Height="77"
+                            Margin="8,248,0,0"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top">
+                    <RadioButton x:Name="UI_MouseMove"
+                                 Height="20"
+                                 Margin="0,6,0,0"
+                                 Content="鼠标发生"
+                                 FontSize="12"
+                                 GroupName="PathMode" />
+                    <RadioButton x:Name="UI_MouseClick"
+                                 Height="20"
+                                 Margin="0,6,0,0"
+                                 Content="点击发生"
+                                 FontSize="12"
+                                 GroupName="PathMode" />
+                    <RadioButton x:Name="UI_AutoPath"
+                                 Height="20"
+                                 Margin="0,6,0,0"
+                                 Content="自动喷发"
+                                 FontSize="12"
+                                 GroupName="PathMode"
+                                 IsChecked="True" />
+                </StackPanel>
+                <StackPanel Width="140"
+                            Height="149"
+                            Margin="8,336,0,0"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top">
+                    <ComboBox x:Name="UI_SelectImage"
+                              Height="69"
+                              Visibility="Collapsed">
+                        <Image Width="111"
+                               Height="101"
+                               Source="Res/e1.png"
+                               Stretch="Fill" />
+                        <Image Width="110"
+                               Height="108"
+                               Source="Res/e2.png"
+                               Stretch="Fill" />
+                        <Image Width="58"
+                               Height="70"
+                               Source="Res/e3.png"
+                               Stretch="Fill" />
+                    </ComboBox>
+                    <ComboBox x:Name="UI_SelectColor"
+                              Height="69"
+                              Visibility="Collapsed">
+                        <Ellipse Width="36"
+                                 Height="36"
+                                 HorizontalAlignment="Center"
+                                 Fill="#FF0095FF" />
+                        <Ellipse Width="36"
+                                 Height="36"
+                                 HorizontalAlignment="Center"
+                                 Fill="#FFFF3A00" />
+                        <Ellipse Width="36"
+                                 Height="36"
+                                 HorizontalAlignment="Center"
+                                 Fill="#FFFFF700" />
+                    </ComboBox>
+                    <RadioButton x:Name="UI_Random"
+                                 Height="20"
+                                 Margin="0,6,0,0"
+                                 Content="随机色点"
+                                 FontSize="12"
+                                 GroupName="DotsMode"
+                                 IsChecked="True" />
+                    <RadioButton x:Name="UI_OneColor"
+                                 Height="20"
+                                 Margin="0,6,0,0"
+                                 Content="单色点"
+                                 FontSize="12"
+                                 GroupName="DotsMode" />
+                    <RadioButton x:Name="UI_ImageMode"
+                                 Height="20"
+                                 Margin="0,6,0,0"
+                                 Content="图片模式"
+                                 FontSize="12"
+                                 GroupName="DotsMode" />
+                </StackPanel>
+                <Button x:ConnectionId='1' x:Name="btnGoBack" Content="Go Back" HorizontalAlignment="Left" Margin="24,651,0,0" VerticalAlignment="Top" Foreground="#FFE80D0D" Height="50" Width="110" BorderBrush="#FFE60A0A" BorderThickness="1" Background="#FF3CDA19"                        />
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Page>
+

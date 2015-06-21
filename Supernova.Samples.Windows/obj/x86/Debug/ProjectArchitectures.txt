@@ -1,0 +1,2 @@
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Samples.Windows\Supernova.Samples.Windows.csproj;x86
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\Supernova.Windows.csproj;x86

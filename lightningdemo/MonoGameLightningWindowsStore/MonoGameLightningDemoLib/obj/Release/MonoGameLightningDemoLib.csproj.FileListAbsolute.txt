@@ -1,0 +1,57 @@
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.pdb
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.pri
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGame.Framework.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XAudio2.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct3D11.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct2D1.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.DXGI.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.MediaFoundation.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XInput.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XAudio2.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct3D11.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct2D1.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.DXGI.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.MediaFoundation.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XInput.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.csprojResolveAssemblyReference.cache
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.dll
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.pdb
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\priconfig.xml
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\layout.resfiles
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\resources.resfiles
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\pri.resfiles
+F:\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.pdb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.pri
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XAudio2.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct3D11.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct2D1.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.DXGI.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.MediaFoundation.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XInput.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XAudio2.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct3D11.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.Direct2D1.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.DXGI.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.MediaFoundation.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\SharpDX.XInput.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.pdb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\priconfig.xml
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\layout.resfiles
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\resources.resfiles
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\pri.resfiles
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\priconfig.xml.intermediate
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\layout.resfiles.intermediate
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\resources.resfiles.intermediate
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\pri.resfiles.intermediate
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.csprojResolveAssemblyReference.cache
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsStore\MonoGameLightningDemoLib\bin\Release\MonoGame.Framework.xml

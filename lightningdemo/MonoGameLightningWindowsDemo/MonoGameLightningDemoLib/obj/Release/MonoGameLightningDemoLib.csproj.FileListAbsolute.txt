@@ -1,0 +1,8 @@
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\bin\Release\MonoGameLightningDemoLib.pdb
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\bin\Release\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\bin\Release\OpenTK.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\bin\Release\Lidgren.Network.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\bin\Release\Tao.Sdl.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.dll
+E:\Windows 8编程\Dodge WorkingOn\lightningdemo\MonoGameLightningWindowsDemo\MonoGameLightningDemoLib\obj\Release\MonoGameLightningDemoLib.pdb

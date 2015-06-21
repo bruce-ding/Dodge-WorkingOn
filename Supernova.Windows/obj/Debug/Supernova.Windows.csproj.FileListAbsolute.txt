@@ -1,0 +1,79 @@
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\Supernova.Windows.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\Supernova.Windows.pdb
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\Supernova.Windows.pri
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XAudio2.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XInput.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct2D1.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct3D11.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.DXGI.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XAudio2.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XInput.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\Supernova.Windows.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\Supernova.Windows.pdb
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\priconfig.xml
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\layout.resfiles
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\resources.resfiles
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\pri.resfiles
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\LanguageQualifiers.txt
+D:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\Supernova.Windows.csprojResolveAssemblyReference.cache
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\MonoGame.Framework.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct2D1.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct3D11.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.DXGI.dll
+D:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\Supernova.Windows.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\Supernova.Windows.pdb
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\Supernova.Windows.pri
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct2D1.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct3D11.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.DXGI.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XAudio2.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XInput.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct2D1.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.Direct3D11.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.DXGI.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.MediaFoundation.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XAudio2.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\bin\Debug\SharpDX.XInput.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\Supernova.Windows.csprojResolveAssemblyReference.cache
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\Supernova.Windows.dll
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\Supernova.Windows.pdb
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\priconfig.xml
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\layout.resfiles
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\resources.resfiles
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\pri.resfiles
+E:\Windows 8编程\Dodge\Supernova.Windows\obj\Debug\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.pdb
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\Supernova.Windows.pri
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\MonoGame.Framework.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.Direct2D1.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.Direct3D11.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.DXGI.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.MediaFoundation.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.XAudio2.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.XInput.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.Direct2D1.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.Direct3D11.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.DXGI.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.MediaFoundation.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.XAudio2.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\SharpDX.XInput.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\Supernova.Windows.csprojResolveAssemblyReference.cache
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\Supernova.Windows.dll
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\Supernova.Windows.pdb
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\priconfig.xml
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\layout.resfiles
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\resources.resfiles
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\pri.resfiles
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\obj\Debug\LanguageQualifiers.txt
+E:\Windows 8编程\Dodge WorkingOn\Supernova.Windows\bin\Debug\MonoGame.Framework.xml

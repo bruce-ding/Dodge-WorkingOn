@@ -1,0 +1,84 @@
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\Content\Textures\Star9.png
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\DPSF Demo for WinRT.exe
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\DPSF Demo for WinRT.pdb
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\resources.pri
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\AppxManifest.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\DPSF Demo for WinRT.build.appxrecipe
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\DPSFWinRT.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\MonoGame.Framework.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct2D1.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct3D11.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.DXGI.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.MediaFoundation.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.Graphics.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.XAudio2.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.DXGI.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct2D1.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct3D11.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.MediaFoundation.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.Graphics.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.XAudio2.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\DPSFWinRT.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.csprojResolveAssemblyReference.cache
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.exe
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.pdb
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.csproj.GenerateResource.Cache
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\SharpDX.pri
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\SharpDX\LanguageQualifiers.txt
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\priconfig.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\layout.resfiles
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\resources.resfiles
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\pri.resfiles
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\LanguageQualifiers.txt
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\ProjectArchitectures.txt
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.XInput.dll
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\bin\Debug\SharpDX.XInput.xml
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\priconfig.xml.intermediate
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\layout.resfiles.intermediate
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\resources.resfiles.intermediate
+E:\DPSF\DPSF Demo\DPSF Demo for WinRT\obj\Debug\pri.resfiles.intermediate
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.csprojResolveAssemblyReference.cache
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.exe
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.pdb
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\Content\Textures\Star9.png
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\DPSF Demo for WinRT.exe
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\DPSF Demo for WinRT.pdb
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\resources.pri
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\AppxManifest.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\DPSF Demo for WinRT.build.appxrecipe
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\MonoGame.Framework.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct2D1.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct3D11.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.MediaFoundation.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.Graphics.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.XAudio2.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.dll
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.DXGI.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct2D1.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Direct3D11.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.MediaFoundation.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.Graphics.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.XAudio2.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.XInput.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\DPSFWinRT.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\bin\Debug\SharpDX.Toolkit.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\DPSF Demo for WinRT.csproj.GenerateResource.Cache
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\SharpDX.pri
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\SharpDX\LanguageQualifiers.txt
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\priconfig.xml.intermediate
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\layout.resfiles.intermediate
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\resources.resfiles.intermediate
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\pri.resfiles.intermediate
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\priconfig.xml
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\layout.resfiles
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\resources.resfiles
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\pri.resfiles
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\LanguageQualifiers.txt
+D:\Windows 8编程\Dodge\DPSF Demo for WinRT\obj\Debug\ProjectArchitectures.txt

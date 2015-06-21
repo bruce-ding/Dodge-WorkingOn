@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="DodgeXaml.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DodgeXaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Image x:ConnectionId='1' Name="avatar" Source="Assets/anonymous.png" Margin="466,245,736,357"                       />
+        <TextBlock Text="UserName" x:Name="userName" Margin="688,305,544,420"/>
+        <Button x:ConnectionId='2' Name="Play" Content="Play" Margin="1072,625,0,88" Width="91" Height="55"                   ></Button>
+    </Grid>
+</Page>
+

@@ -1,0 +1,29 @@
+﻿<SwapChainBackgroundPanel x:Class="DodgeXaml.GamePage"
+                          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                          xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                          xmlns:local="using:DodgeXaml"
+                          xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                          Loaded="SwapChainBackgroundPanel_Loaded"
+                          mc:Ignorable="d">
+
+    <Grid x:Name="LayoutRoot">
+        <Popup x:Name="msgPopup" x:FieldModifier="public" Width="300" Height="100">
+            <StackPanel Orientation="Horizontal">
+                <Border Width="100" Height="100"></Border>
+                <TextBlock x:Name="msgtext" x:FieldModifier="public" Width="200" Height="80" ></TextBlock>
+            </StackPanel>
+        </Popup>
+        <Ellipse x:Name="ellipseStore" x:FieldModifier="public" Stroke="Black" Margin="468,620,798,48">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Assets/Store.png"/>
+            </Ellipse.Fill>
+        </Ellipse>
+
+        <Ellipse x:Name="ellipseLighting" x:FieldModifier="public" HorizontalAlignment="Left" Height="100" Margin="788,620,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" Tapped="EllipseLighting_OnTapped">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="Assets/Lighting.jpg"/>
+            </Ellipse.Fill>
+        </Ellipse>
+    </Grid>
+</SwapChainBackgroundPanel>
